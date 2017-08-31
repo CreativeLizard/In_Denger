@@ -5,11 +5,11 @@
     "name": "Windows",
     "option_windows_allow_fullscreen_switching": false,
     "option_windows_borderless": false,
-    "option_windows_company_info": "YoYo Games Ltd",
-    "option_windows_copyright_info": "(c) 2017 CompanyName",
-    "option_windows_description_info": "A GameMaker Studio 2 Game",
+    "option_windows_company_info": "Creative Lizard",
+    "option_windows_copyright_info": "(c) 2017 Creative Liard",
+    "option_windows_description_info": "A Creativelizard Game",
     "option_windows_display_cursor": true,
-    "option_windows_display_name": "Made in GameMaker Studio 2",
+    "option_windows_display_name": "In Denger",
     "option_windows_enable_steam": false,
     "option_windows_executable_name": "${project_name}",
     "option_windows_icon": "${base_options_dir}\\windows\\icons\\icon.ico",
@@ -19,7 +19,7 @@
     "option_windows_license": "${base_options_dir}\\windows\\installer\\license.txt",
     "option_windows_nsis_file": "${base_options_dir}\\windows\\installer\\nsis_script.nsi",
     "option_windows_product_info": "Made in GameMaker Studio 2",
-    "option_windows_resize_window": false,
+    "option_windows_resize_window": true,
     "option_windows_save_location": 0,
     "option_windows_scale": 0,
     "option_windows_sleep_margin": 10,
@@ -33,5 +33,5 @@
         "minor": 0,
         "revision": 0
     },
-    "option_windows_vsync": false
+    "option_windows_vsync": true
 }
